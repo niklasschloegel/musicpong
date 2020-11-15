@@ -1,0 +1,40 @@
+@import "size";
+
+.up{
+  -fx-shape: "M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6 1.41 1.41z";
+  -fx-background-color: GREY;
+  -fx-min-height: $midSize;
+  -fx-min-width: $midSize;
+  -fx-max-height: $midSize;
+  -fx-max-width: $midSize;
+}
+
+.down{
+  -fx-shape: "M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z";
+  -fx-background-color: GREY;
+  -fx-min-height: $midSize;
+  -fx-min-width: $midSize;
+  -fx-max-height: $midSize;
+  -fx-max-width: $midSize;
+}
+
+.keys_small {
+  -fx-min-height: 20pt;
+  -fx-min-width: 20pt;
+  -fx-max-height: 20pt;
+  -fx-max-width: 20pt;
+}
+
+.keys_mid {
+  -fx-min-height: 20pt;
+  -fx-min-width: 30pt;
+  -fx-max-height: 20pt;
+  -fx-max-width: 30pt;
+}
+
+.keys_big {
+  -fx-min-height: 20pt;
+  -fx-min-width: 50pt;
+  -fx-max-height: 20pt;
+  -fx-max-width: 50pt;
+}

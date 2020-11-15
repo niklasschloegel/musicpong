@@ -1,0 +1,54 @@
+@import "size";
+
+#backButton{
+  -fx-shape: "M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z";
+  -fx-min-height: $secondarySize;
+  -fx-min-width: $secondarySize;
+  -fx-max-height: $secondarySize;
+  -fx-max-width: $secondarySize;
+}
+
+.playlistTable {
+  -fx-background-insets: 0;
+  -fx-padding: 0;
+  -fx-table-cell-border-color: transparent;
+}
+
+.playlistTitle {
+  -fx-font-size: 3em;
+  -fx-font-weight: bold;
+}
+
+.table-row-cell {
+  -fx-table-cell-border-color: transparent;
+}
+
+.table-view .column-header .label {
+  -fx-alignment: CENTER_LEFT
+}
+
+.scroll-bar:horizontal .increment-button ,
+.scroll-bar:horizontal .decrement-button {
+  -fx-background-color :transparent;
+  -fx-background-radius : 0.0em;
+  -fx-padding :0.0 0.0 10.0 0.0;
+}
+
+.scroll-bar:vertical .increment-button ,
+.scroll-bar:vertical .decrement-button {
+  -fx-background-color :transparent;
+  -fx-background-radius : 0.0em;
+  -fx-padding :0.0 10.0 0.0 0.0;
+}
+
+.scroll-bar .increment-arrow,
+.scroll-bar .decrement-arrow{
+  -fx-shape : " ";
+  -fx-padding :0.15em 0.0;
+}
+
+.scroll-bar:vertical .increment-arrow,
+.scroll-bar:vertical .decrement-arrow{
+  -fx-shape : " ";
+  -fx-padding :0.0 0.15em;
+}

@@ -1,0 +1,5 @@
+package presentation.ui;
+
+public enum Scenes {
+	HOME_VIEW, PONG_VIEW, SETTINGS_VIEW, EASY_PLAYLIST, MIDDLE_PLAYLIST, HARD_PLAYLIST, PAUSE_VIEW;
+}

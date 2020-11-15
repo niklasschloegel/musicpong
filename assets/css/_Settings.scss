@@ -1,0 +1,33 @@
+@import "size";
+#import-icon {
+  -fx-shape: "M6 2c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6H6zm7 7V3.5L18.5 9H13z";
+}
+
+#import-box {
+  -fx-border-radius: 10 10 10 10;
+  -fx-background-radius: 10 10 10 10;
+}
+
+.separator .line {
+  -fx-border-width: 0 0 0 0;
+}
+
+.playlistButtons {
+  -fx-padding: 20px 20px 20px 20px;
+  -fx-spacing: 20;
+  -fx-alignment: BASELINE_LEFT;
+  -fx-font-size: 1.5em;
+}
+
+#settings-header {
+  -fx-font-size: 4em;
+}
+
+#successIcon{
+  -fx-shape: "M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z";
+  -fx-background-color: "#97c475";
+  -fx-min-height: $secondarySize;
+  -fx-min-width: $secondarySize;
+  -fx-max-height: $secondarySize;
+  -fx-max-width: $secondarySize;
+}

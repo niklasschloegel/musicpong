@@ -1,0 +1,1 @@
+.jfx-slider > .track{-fx-background-color:#bbbbbb;}.jfx-slider > .colored-track{-fx-background-color:#EDB928;} .jfx-slider > .thumb{-fx-background-color:#bbbbbb;} .jfx-slider > .animated-thumb{-fx-background-color:rgba(0,0,0,0);} .jfx-slider .slider-value{ -fx-fill: rgba(0,0,0,0); -fx-stroke: rgba(0,0,0,0);}

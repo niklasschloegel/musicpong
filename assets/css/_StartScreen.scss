@@ -1,0 +1,35 @@
+#start-settings{
+  -fx-min-width: 40;
+  -fx-min-height: 40;
+  -fx-background-image: url('https://freeiconshop.com/wp-content/uploads/edd/settings-solid.png');
+  -fx-background-color: transparent;
+  -fx-background-repeat: no-repeat no-repeat;
+  -fx-background-size: 40 40;
+  -fx-padding: 20pt;
+  -fx-background-position:center;
+}
+
+#start-play{
+  -fx-min-width: 100;
+  -fx-min-height: 100;
+  -fx-background-image: url('https://cdn131.picsart.com/301947069224211.png?to=min&r=1024');
+  -fx-background-color: transparent;
+  -fx-background-repeat: no-repeat no-repeat;
+  -fx-background-size: 100 100;
+  -fx-background-position:center;
+}
+
+#start-easy{
+  -fx-font-size: 16pt;
+  -fx-background-color: #27d9df;
+}
+
+#start-normal{
+  -fx-font-size: 16pt;
+  -fx-background-color: #758dca;
+}
+
+#start-hard{
+  -fx-font-size: 16pt;
+  -fx-background-color: #ca3bb3;
+}

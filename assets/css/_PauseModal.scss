@@ -1,0 +1,19 @@
+#pause-label{
+  -fx-font-size: 2em;
+}
+
+.pause-buttons{
+  -fx-min-width: 100px;
+}
+
+#pause-box{
+  -fx-max-width: 50%;
+  -fx-spacing: 10px;
+  -fx-padding: 80px;
+  -fx-border-radius: 10 10 10 10;
+  -fx-background-radius: 10 10 10 10
+}
+
+#pause-modal{
+  -fx-background-color: transparent;
+}
