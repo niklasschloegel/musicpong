@@ -2,11 +2,11 @@
 #### 3. Semester: Entwicklung interaktiver Benutzungsoberflächen
 ###### Projekt von Sandra Kiefer, Matteo Bentivegna und Niklas Schlögel
 
-###Hinweis
+### Hinweis
 
 Da dieses Programm die Spotify API zur Musikanalyse benutzt, werden API Credentials benötigt, die kostenfrei beantragt werden können.
 
-###Installationsanweisungen
+### Installationsanweisungen
 
 Spotify Credentials:
 * Spotify Developer Account erstellen unter https://developer.spotify.com/dashboard/
@@ -25,7 +25,7 @@ $ git clone https://github.com/niklasschloegel/musicpong.git
 $ ./mvnw javafx:run
 ```
 
-###Projektbeschreibung
+### Projektbeschreibung
 
 musicpong ist eine eigene Umsetzung des Spieleklassikers "Pong" in JavaFX, jedoch unterstützt von und synchronisiert mit Musik.
 Der Ball pulsiert im Takt und die gesamte GUI passt sich farblich dem Coverbild des aktuell gespielten Tracks an.
