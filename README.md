@@ -1,6 +1,6 @@
 # musicpong
 #### 3. Semester: Entwicklung interaktiver Benutzungsoberflächen
-###### Projekt von Sandra Kiefer, Matteo Bentivegna und Niklas Schlögel
+##### Projekt von Sandra Kiefer, Matteo Bentivegna und Niklas Schlögel
 
 ###Hinweis
 Da dieses Programm die Spotify API zur Musikanalyse benutzt, werden API Credentials benötigt, die kostenfrei beantragt werden können.
